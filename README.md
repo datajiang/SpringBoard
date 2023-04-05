@@ -13,7 +13,8 @@ To the majority of car buyers, it would be a great tool to use a data-driven obj
 # Model Performance R2=0.95
 ![2019 predictin](https://github.com/datajiang/SpringBoard/blob/master/Capstone%20Project%201/Year2019.png)
 
-## Capstone Project 1
+
+## Capstone Project 2
 # Modeling Energy Usage
 A rich energy usage dataset coming from over 1,000 buildings around the world combined with local weather data from Ashrea provides a wonderful machine learning opportunity for predicting energy usage.
 
